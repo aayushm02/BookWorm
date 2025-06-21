@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 book-reader/
 ├── client/
 │   ├── public/
@@ -78,3 +79,6 @@ Implement the book upload functionality in Navbar.js by adding a form and API ca
 Ensure background.jpg is visually appealing for readers (e.g., a cozy library image).
 
 
+=======
+# BookWorm
+>>>>>>> fad3577f6ec226eb13107a4891bbbedc9ca3bbbd
